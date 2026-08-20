@@ -1,0 +1,6 @@
+{
+  "name": "Arnold N Unson Portfolio",
+  "description": "Premium editorial portfolio for Arnold N Unson, GHL Specialist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
